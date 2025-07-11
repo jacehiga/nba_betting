@@ -1,5 +1,4 @@
 # NBA Betting Trends and Projections 
-**Authors:** Cameron Hayman & Jace Higa  
 
 This was a partner project, and displayed below is the work that I completed. My partner looked an MLB stats while I looked at NBA stats.
 ---
@@ -11,7 +10,7 @@ This was a partner project, and displayed below is the work that I completed. My
 
 ## ER Diagrams  
 Through these diagrams we display the tables we used to organize our data in third normal form.
-- **Jace’s Diagram:**  
+- **ER Diagram for NBA Tables:**  
   [DrawSQL Link](https://drawsql.app/teams/willamette-9/diagrams/final-project)
 
 ---
@@ -40,4 +39,4 @@ Access Link: [Grafana Dashboard](https://grafana-production-dc21.up.railway.app/
 
 ---
 
->  *Our project aims to visualize and analyze team-level performance trends across MLB and NBA games, providing an interactive view into player metrics, betting props, and more.*
+>  *This project aims to visualize and analyze team-level performance trends across MLB and NBA games, providing an interactive view into player metrics, betting props, and more.*
