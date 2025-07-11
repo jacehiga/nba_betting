@@ -31,7 +31,7 @@ Base URL:
 ---
 
 ## Grafana Dashboard  
-
+I created the 'NBA Insights' dashboard, which you can view by visiting the link below and entering the credentials provided.
 Access Link: [Grafana Dashboard](https://grafana-production-dc21.up.railway.app/login)  
 **Login Credentials:**  
 - **Username:** `jed`  
