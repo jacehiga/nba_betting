@@ -1,6 +1,7 @@
-# Final Project - Sport Trends  
+# NBA Betting Trends and Projections 
 **Authors:** Cameron Hayman & Jace Higa  
 
+This was a partner project, and displayed below is the work that I completed. My partner looked an MLB stats while I looked at NBA stats.
 ---
 
 ## Presentation Slides  
@@ -9,28 +10,18 @@
 ---
 
 ## ER Diagrams  
-
+Through these diagrams we display the tables we used to organize our data in third normal form.
 - **Jace’s Diagram:**  
   [DrawSQL Link](https://drawsql.app/teams/willamette-9/diagrams/final-project)
-
-- **Cameron’s Diagram:**  
-  [DrawSQL Link](https://drawsql.app/teams/willamette-university-13/diagrams/data-503-final-project)
 
 ---
 
 ## PostgREST API  
-
+This an API link that one can copy and paste in their browser. If they add the /____ they will be able to see raw json data of the specified titles.
 Base URL:  
 `https://postgrest-production-6b28.up.railway.app`
 
 **Endpoints:**  
-### MLB
-- `/mlb_box_scores`  
-- `/player_batting`  
-- `/player_pitching`  
-- `/team_totals`  
-- `/game_info`  
-- `/game_decisions`  
 
 ### NBA
 - `/nba_box_scores`  
